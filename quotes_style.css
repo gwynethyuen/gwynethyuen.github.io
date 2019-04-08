@@ -31,10 +31,5 @@ body {
 }
 
 .quote {
-    font-style: italic;
-    color: mediumpurple;
-}
-
-.author {
     color: limegreen;
 }
