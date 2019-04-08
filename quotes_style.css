@@ -1,14 +1,9 @@
 body {
-    background: lightsteelblue;
-}
-
-.first {
-    font-weight: bold;
-    font-style: italic;
+    background: powderblue;
 }
 
 .header {
-    color: midnightblue;
+    color: tomato;
 }
 
 .contact {
@@ -33,4 +28,13 @@ body {
 
 .fa-youtube {
     background: #c4302b;
+}
+
+.quote {
+    font-style: italic;
+    color: mediumpurple;
+}
+
+.author {
+    color: limegreen;
 }
