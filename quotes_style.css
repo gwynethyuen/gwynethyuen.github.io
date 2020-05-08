@@ -22,6 +22,14 @@ body {
     background: grey;
 }
 
+.fa-linkedin {
+    background: #2867b2;
+}
+
+.fa-instagram {
+    background: #c13584;
+}
+
 .fa-twitter {
     background: #4099ff;
 }
